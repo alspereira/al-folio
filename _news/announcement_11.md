@@ -1,6 +1,6 @@
 ---
 layout: post
-title: During the week of July 16 to July 21, 2023 the nextIK project was presented in several national and international events.
+title: During the week of July 16 to July 21, 2023 the nexIK project was presented in several national and international events.
 date: 2023-07-24 00:00:00-0000
 inline: false
 ---
