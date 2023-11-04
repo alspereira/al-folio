@@ -27,7 +27,11 @@
   scholar: A-YHLHkAAAAJ
   website: https://sites.google.com/tecnico.ulisboa.pt/hmorais/
   orcid: "orcid.org/0000-0001-5906-4744"
-  #description:
+  description: Hugo Morais received BSc. and MSc. degrees from the Polytechnic of Porto in 2005 and 2010, respectively, and a Ph.D. degree in 2012 from the University of Trás-os-Montes e Alto Douro, all in the field of the electric power system. 
+  
+              He is a senior researcher at INESC-ID and an Associate Professor at the University of Lisbon. His research interests are in the development and deployment of smart grid methods and tools. 
+              He participates in the definition of operational planning tools used by the French DSO and the development of hardware-agnostic solutions based on IEC standards to be used to control distributed energy resources. 
+              He also works actively in the development of strategies for electric mobility integration in power systems.
   
 - name: Rui Castro
   degrees: PhD
@@ -90,14 +94,14 @@
   description: Toni Garcês is a bachelor student in Informatics Engineering at University of Madeira. His role is the project will be the design and development of
                user interfaces for the water-energy nexus in Industrial Kitchens.
 
-- name: Vasco Andrade
+- name: Márcio Romero
   degrees: BSc
-  image: team_Vasco-Andrade.jpg
+  image: team_Marcio-Romero.jpeg
   #altimage: 
-  position: Research Assistant
-  email: vasco.andrade (at) tecnico.ulisboa.pt
+  position: Master Student
+  email: marcio.r.lourenco17 (at) gmail.com
   #scholar: oIRnXSkAAAAJ
   #website: https://sites.google.com/site/ruigameirocastro/
   #orcid: "orcid.org/0000-0002-3108-8880" 
-  description: Vasco Andrade is a final year student of MSc in Electrical and Computer Engineering, in the field of energy, from Instituto Superior Técnico, University of Lisbon, Portugal. 
-              His work in this project is focused on the forecast of electric load and consumption. The ongoing work consists in evaluating forecast models accuracy for predictions in IK.
+  description: Márcio Romero is a final year student of MSc in Electrical and Computer Engineering, in the field of energy, from Instituto Superior Técnico, University of Lisbon, Portugal. 
+              His final thesis is primarily concerned with modeling IK devices in terms of their mode of operation and electricity consumption. Another contribution is the application of said models to flexibility services.

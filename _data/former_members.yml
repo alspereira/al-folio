@@ -1,3 +1,14 @@
+- name: Vasco Andrade
+  degrees: BSc
+  image: team_Vasco-Andrade.jpg
+  #altimage: 
+  position: Research Assistant
+  email: vasco.andrade (at) tecnico.ulisboa.pt
+  #scholar: oIRnXSkAAAAJ
+  #website: https://sites.google.com/site/ruigameirocastro/
+  #orcid: "orcid.org/0000-0002-3108-8880" 
+  description: Vasco Andrade is a final year student of MSc in Electrical and Computer Engineering, in the field of energy, from Instituto Superior Técnico, University of Lisbon, Portugal. 
+              His work in this project is focused on the forecast of electric load and consumption. The ongoing work consists in evaluating forecast models accuracy for predictions in IK.
 
 - name: Ricardo Martins
   degrees: MSc
