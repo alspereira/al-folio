@@ -9,7 +9,7 @@ nav: true
 
 ### Code
 
-- [Aggregated and Individual Device Demand Forecasting](https://github.com/feelab-info/nexik_forecasting)
+- [Aggregated and Individual Device Demand Forecasting](https://github.com/feelab-info/nexik_demand_forecasting)
 - [Device Usage Pattern Detection and Classification](https://github.com/feelab-info/nexik_device_usage_patterns)
 - [Data-Driven Device Modeling](https://github.com/feelab-info/nexik_data_driven_device_models)
 - Data-Driven Device Control
