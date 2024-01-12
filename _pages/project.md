@@ -101,7 +101,7 @@ The Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvo
   </div>
   <div class="float-left" style="width:70%; padding-left:10px" markdown="1">
 
-  The nexIK project is funded by the  Portuguese Foundation for Science and Technology ([FCT](https://www.fct.pt/)) under grant (EXPL/CCI-COM/1234/2021), through national funds.
+  The nexIK project is funded by the  Portuguese Foundation for Science and Technology ([FCT](https://www.fct.pt/)) under grant (EXPL/CCI-COM/1234/2021), through national funds. DOI: [http://doi.org/10.54499/EXPL/CCI-COM/1234/2021](http://doi.org/10.54499/EXPL/CCI-COM/1234/2021)
 
 </div>
 
