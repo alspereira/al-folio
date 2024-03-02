@@ -91,7 +91,8 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
+
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
@@ -124,6 +125,7 @@ highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
+    #disable: true
     css_class: 'highlight'
     span:
       line_numbers: false
